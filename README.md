@@ -1,2 +1,2 @@
-# vcmiJson
-vcmi json 快速生成器
+# vcmi mod
+vcmi mod 快速生成器
